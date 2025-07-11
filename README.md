@@ -1,6 +1,6 @@
 ## Hi👋, I'm Michelle Estefanir
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml6b2w5bDI0YTlhZnVqenpyODJkZzVyYXFqZjd1emRscmFsczVkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KbBsgXdWFhr8nfz0ho/giphy.gif" width="70"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aXhseXJkeXM5b2Ezd2h5cDF6dHRjZnJweGxsaXZrMzRvcnN2eWlmMCZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/kMqJ9CL7656fK/giphy.gif" width="300"/>
 
 
 - 🌱 Passionate about Web3, but still laying the foundations with Web2 studies
@@ -9,7 +9,8 @@
 - ⚡ Fun fact: love cats, read, and dramas
 
   
----
+
+
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -49,6 +50,8 @@
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
