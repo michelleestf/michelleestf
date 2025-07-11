@@ -1,5 +1,8 @@
 ## Hi👋, I'm Michelle Estefanir
 
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYml6b2w5bDI0YTlhZnVqenpyODJkZzVyYXFqZjd1emRscmFsczVkdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KbBsgXdWFhr8nfz0ho/giphy.gif" width="70"/>
+
+
 - 🌱 Passionate about Web3, but still laying the foundations with Web2 studies
 - 🤔 I’m looking for help with all things front-end basics and the technology market in general
 - 💬 Ask me about blockchain and cryptocurrencies
